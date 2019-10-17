@@ -51,7 +51,7 @@ body {
   margin-right: auto;
   padding: 0% 5%;
   /*font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;*/
-  font-family: "Roboto", sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-weight: 300;
   background-color: #ffffff;
   color: #000000;
@@ -91,7 +91,7 @@ body {
     text-decoration: none; }
   .wrap h1 {
     /*font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;*/
-    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 600;
     text-transform: uppercase;
@@ -104,7 +104,7 @@ body {
     hyphens: none;
   }
   .wrap h2 {
-    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     text-transform: uppercase;
     text-align: left;
@@ -113,7 +113,7 @@ body {
     font-size: 1.5rem;
     line-height: 1.25; }
   .wrap h3 {
-    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     text-align: left;
     font-size: 1.1rem;
@@ -167,7 +167,7 @@ body {
     height: 100%; }
   .wrap .sans {
     /*font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;*/
-    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
     letter-spacing: .03em; }
   .wrap pre, .wrap pre code, .wrap p code, .wrap p pre code {
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
@@ -311,7 +311,7 @@ article .sidenote-number {
   counter-increment: sidenote-counter; }
 article .sidenote-number:after, article .sidenote:before {
   content: counter(sidenote-counter) " ";
-  font-family: "Roboto", sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-weight: 300;
   color: #A5452B;
   position: relative;
@@ -369,7 +369,7 @@ article .fullwidth div.sourceCode {
 article .fullwidth p {
   width: 90%; }
 article span.newthought {
-  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 600;
   text-transform: uppercase;
   font-size: 0.9em;
@@ -463,7 +463,7 @@ label.margin-toggle:not(.sidenote-number) {
 
 .date {
   /*font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;*/
-  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
   /*text-transform: uppercase;*/ }
 
 .date.today:after {
@@ -487,7 +487,7 @@ nav.group a.active {
 header > nav a {
   font-size: 1.3rem;
   /*font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;*/
-  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 600;
   /*letter-spacing: 0.1em;*/
   text-transform: uppercase;
@@ -539,7 +539,7 @@ ul.footer-links li {
 
 .blognav {
   /*font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;*/
-  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
   /*text-transform: uppercase;*/
   display: block;
   overflow: hidden;
@@ -570,7 +570,7 @@ ul.footer-links li {
 /* END NAVIGATION */
 .credits {
   /*font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif; */
-  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
   .credits a {
     color: #A5452B; }
@@ -669,7 +669,7 @@ hr.slender {
 
   html body span.print-footer {
     /*font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;*/
-    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 600;
     font-size: 9pt;
     margin-top: 50pt;

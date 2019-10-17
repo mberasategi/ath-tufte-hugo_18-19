@@ -65,7 +65,7 @@ a > code {
 }
 
 footer {
-    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 .course-info {
@@ -94,14 +94,14 @@ ul.footer-links {
 }
 
 .fake-header {
-    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 600;
     text-transform: uppercase;
     font-size: 1.2rem;
 }
 
 .fake-header-table {
-    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 600;
     text-transform: uppercase;
     font-size: 1.25rem;
@@ -114,7 +114,7 @@ ul.footer-links {
 td.mid-table-header {
     text-align: center;
     vertical-align: bottom !important;
-    font-family: "Oswald", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     text-transform: uppercase;
 }
