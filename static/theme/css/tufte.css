@@ -170,7 +170,7 @@ body {
     font-family: "Roboto", sans-serif;
     letter-spacing: .03em; }
   .wrap pre, .wrap pre code, .wrap p code, .wrap p pre code {
-    font-family: "Fira Mono" monospace;
+    font-family: "Fira Mono", monospace;
     font-size: 0.85rem;
     line-height: 1.71428571;
     margin-top: 1rem; }
@@ -302,7 +302,8 @@ article .sidenote, article .marginnote {
   font-size: 0.75rem;
   line-height: 1.5;
   vertical-align: baseline;
-  position: relative; }
+  position: relative;
+  font-family: Roboto, sans-serif; }
 article li .sidenote, article li .marginnote {
   margin-right: -80%; }
 article blockquote .sidenote, article blockquote .marginnote {
@@ -311,7 +312,7 @@ article .sidenote-number {
   counter-increment: sidenote-counter; }
 article .sidenote-number:after, article .sidenote:before {
   content: counter(sidenote-counter) " ";
-  font-family: "PT Serif", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 300;
   color: #A5452B;
   position: relative;
@@ -370,7 +371,7 @@ article .fullwidth p {
   width: 90%; }
 article span.newthought {
   font-family: "Roboto", sans-serif;
-  font-weight: 600;
+  font-weight: 400;
   text-transform: uppercase;
   font-size: 0.9em;
 }
