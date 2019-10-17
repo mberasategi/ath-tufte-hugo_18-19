@@ -51,7 +51,7 @@ body {
   margin-right: auto;
   padding: 0% 5%;
   /*font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;*/
-  font-family: "Playfair Display", sans-serif;
+  font-family: "PT Serif", sans-serif;
   font-weight: 300;
   background-color: #ffffff;
   color: #000000;
@@ -311,7 +311,7 @@ article .sidenote-number {
   counter-increment: sidenote-counter; }
 article .sidenote-number:after, article .sidenote:before {
   content: counter(sidenote-counter) " ";
-  font-family: "Playfair Display", sans-serif;
+  font-family: "PT Serif", sans-serif;
   font-weight: 300;
   color: #A5452B;
   position: relative;
