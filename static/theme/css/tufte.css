@@ -170,7 +170,7 @@ body {
     font-family: "Roboto", sans-serif;
     letter-spacing: .03em; }
   .wrap pre, .wrap pre code, .wrap p code, .wrap p pre code {
-    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-family: "Fira Mono" monospace;
     font-size: 0.85rem;
     line-height: 1.71428571;
     margin-top: 1rem; }
