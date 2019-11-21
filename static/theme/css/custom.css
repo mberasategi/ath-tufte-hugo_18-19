@@ -81,7 +81,8 @@ footer {
 }
 
 .credits {
-    font-size: 1rem;
+    font-size: .8rem;
+    line-height: .8rem;
 }
 
 .credit {
@@ -91,6 +92,7 @@ footer {
 
 ul.footer-links {
     margin-bottom: 1.25rem;
+    font-size: 1rem;
 }
 
 .fake-header {
