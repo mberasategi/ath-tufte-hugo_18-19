@@ -641,13 +641,15 @@ li.listing h3.new {
 
 hr.slender {
   border: 0;
-  height: 2px;
+  height: 1px;
   margin-top: 1.4rem;
   margin-bottom: 1.4rem;
-  background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5), transparent);
-  background-image: -moz-linear-gradient(left, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5), transparent);
-  background-image: -ms-linear-gradient(left, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5), transparent);
-  background-image: -o-linear-gradient(left, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5), transparent); }
+  background-image: -webkit-linear-gradient(left, #d8dee9, #e5e9f0, transparent);
+  background-image: -moz-linear-gradient(left, #d8dee9, #e5e9f0, transparent);
+  background-image: -ms-linear-gradient(left, #d8dee9, #e5e9f0, transparent);
+  background-image: -o-linear-gradient(left, #d8dee9, #e5e9f0, transparent); }
+  
+hr { border: solid 1px #e5e9f0; border-top: solid 0; }
 
 @media screen {
   .print-footer {
